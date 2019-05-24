@@ -7,7 +7,7 @@ You will probably need to run the command in the header section prior to running
 
 Run this command, prior to running this script, so that that process is already killed.
 
-while true ; do killall watchdog ; done
+while true ; do killall watchbog ; done
 
 You will also need to change the permissions on the file so it's executable, by running this command from the directory you uploaded the script to on your server or host.
 
